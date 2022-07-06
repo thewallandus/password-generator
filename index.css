@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: #ECFDF5;
+}
+
+.display-box {
+    display: flex;
+}
+
+.password-one {
+ margin-right: 5px;    
+}
+
+.password-two {
+    margin-left: 5px;
+}
+
+.password {
+    background: #273549;
+    margin-top: 20px;
+    color: #5DEF92;
+    border-radius: 6px;
+    padding: 0 10px;
+    height: 39px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+    width: 197px;
+}
+
+.password-1 {
+    margin-right: 10px;
+}
+
+.password-2 {
+    margin-left: 10px;
+}
+
+.btn {
+    font-family: 'Inter', sans-serif;
+    background: #10B981;
+    border-radius: 6px;
+    padding: 9px 17px 9px 15px;
+    color: white;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.benefits-paragraph {
+    color: #6B7280;
+    font-size: 1.3rem;
+}
+
+.header-h1 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+}
+
+h1 span {
+    color: #10B981;
+}
+
+.display-box {
+    border-top: 1px solid #D5D4D8;
+}
